@@ -1,0 +1,5 @@
+#include <stdio.>
+in main(void){
+prinf("dear kitten");
+return 0;
+}
